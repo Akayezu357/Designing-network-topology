@@ -1,0 +1,5 @@
+
+ first access point: Floor 2:
+password: Password
+
+first access point; Guest: Password
